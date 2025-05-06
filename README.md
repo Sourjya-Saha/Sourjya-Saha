@@ -1,5 +1,6 @@
-<img src="Screenshot 2025-05-06 150730.png" alt="GitHub Banner" width="100%" />
+<img src="Screenshot 2025-05-06 172906.png" alt="GitHub Banner" width="100%" />
 
+Screenshot 2025-05-06 172906
 # 💫 About Me:
 Hey there! I'm Sourjya – an enthusiastic 💻 techie currently pursuing Information Technology (IT) at Heritage Institute of Technology .<br>💡 Build smart and scalable apps that create real-world impact<br>🔍 Keep learning and contributing to open-source projects<br>📈 Grow as a full-stack & Web3 developer<br>🎮 Gamer at heart & techie by passion<br>✨ Always curious, always learning
 
