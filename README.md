@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Sourjya – an enthusiastic 💻 techie currently pursuing Information Technology (IT) at Heritage Institute of Technology .<br>💡 Build smart and scalable apps that create real-world impact<br><br>🔍 Keep learning and contributing to open-source projects<br><br>📈 Grow as a full-stack & Web3 developer<br><br>🎮 Gamer at heart & techie by passion<br><br>✨ Always curious, always learning
+Hey there! I'm Sourjya – an enthusiastic 💻 techie currently pursuing Information Technology (IT) at Heritage Institute of Technology .<br>💡 Build smart and scalable apps that create real-world impact<br>🔍 Keep learning and contributing to open-source projects<br>📈 Grow as a full-stack & Web3 developer<br>🎮 Gamer at heart & techie by passion<br>✨ Always curious, always learning
 
 
 ## 🌐 Socials:
